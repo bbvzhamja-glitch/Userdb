@@ -1,4 +1,4 @@
-[
+
     {
         "device_id": "device123",
         "username": "user1",
@@ -14,12 +14,12 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-   
-    [
+    
     {
         "device_id": "a861000ae5d7d437",
         "username": "Amir Hamja",
         "password": "Amir Hamja",
         "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "Allowoffline": true 
+    },
 
