@@ -6,6 +6,7 @@
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
+   
     {
         "device_id": "device456",
         "username": "user2",
@@ -13,27 +14,12 @@
         "expirydate": "15-06-2025",
         "Allowoffline": false
     },
-        {
-        "device_id": "629176df90e46e69",
-        "username": "Amir Hamja2k",
-        "password": "Amir Hamja2k",
-        "expirydate": "19-09-2025",
-        "Allowoffline": false
-        }
-
-        {
-        "device_id": "629176df90e46e69",
-        "username": "Amir Hamja2k",
-        "password": "Amir Hamja2k",
-        "expirydate": "19-09-2025",
-        "Allowoffline": false
-
-        {
-        "device_id": "629176df90e46e69",
-        "username": "Amir Hamja2k",
-        "password": "Amir Hamja2k",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-]
-
+   
+    [
+    {
+        "device_id": "a861000ae5d7d437",
+        "username": "Amir Hamja",
+        "password": "Amir Hamja",
+        "expirydate": "31-12-2025",
+        "Allowoffline": true
 
